@@ -11,8 +11,8 @@ import net.minecraft.util.Identifier;
 
 
 public class Luxore implements ModInitializer {
-    public static final ItemGroup LUXORE_GROUP = FabricItemGroupBuilder.build(ID("general"), () -> new ItemStack(ItemRegistry.get("luxore_ingot")));
 
+    public static final ItemGroup LUXORE_GROUP = FabricItemGroupBuilder.build(ID("general"), () -> new ItemStack(ItemRegistry.get("luxore_ingot")));
 
     public void onInitialize() {
         BlockRegistry.init();
