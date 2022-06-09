@@ -11,9 +11,9 @@ import java.util.HashMap;
 
 public final class BlockRegistry {
 
-    private BlockRegistry() {}
-
     private static final HashMap<String, Block> BLOCKS = new HashMap<>();
+
+    private BlockRegistry() {}
 
     public static void init() {
         if (!BLOCKS.isEmpty()) {
