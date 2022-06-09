@@ -11,5 +11,6 @@
   "item.luxore.luxore_leggings": "Luxore Leggings",
   "item.luxore.luxore_boots": "Luxore Boots",
   "block.luxore.luxore_ore": "Luxore Ore",
-  "block.luxore.luxore_block": "Luxore Block"
+  "block.luxore.luxore_block": "Luxore Block",
+  "luxore.ingot.on_use": "%s, you are magical..."
 }
