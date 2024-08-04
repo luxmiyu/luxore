@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "luxore:luxore_glass",
+    "luxore:luxore_block",
+    "luxore:luxore_stone",
+    "luxore:luxore_lamp",
+    "luxore:luxore_ore"
+  ]
+}

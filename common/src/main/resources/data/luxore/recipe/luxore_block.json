@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "luxore:luxore_ingot"
+    }
+  },
+  "result": {
+    "id": "luxore:luxore_block",
+    "count": 4
+  }
+}

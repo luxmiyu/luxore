@@ -1,0 +1,38 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+issueTrackerURL = "https://github.com/luxmiyu/luxore/issues"
+license = "MIT"
+
+[[mods]]
+modId = "luxore"
+version = "${version}"
+displayName = "Luxore"
+authors = "luxmiyu"
+description = '''
+A cute little pastel-themed mod that adds a simple set of tools, equipment, and blocks.
+'''
+logoFile = "icon.png"
+
+[[dependencies.luxore]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.luxore]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.luxore]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.2,)"
+ordering = "AFTER"
+side = "BOTH"
+
+#[[mixins]]
+#config = "luxore.mixins.json"

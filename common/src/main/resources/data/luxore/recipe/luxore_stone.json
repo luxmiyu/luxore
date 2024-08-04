@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "blocks",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "luxore:luxore_ingot"
+    }
+  ],
+  "result": {
+    "id": "luxore:luxore_stone",
+    "count": 1
+  }
+}

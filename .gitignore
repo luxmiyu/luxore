@@ -1,29 +1,10 @@
-# gradle
-
-.gradle/
-build/
-out/
-classes/
-
-# eclipse
-
-*.launch
-
-# idea
-
 .idea/
-*.iml
-*.ipr
-*.iws
-
-# vscode
-
-.settings/
-.vscode/
-bin/
-.classpath
-.project
-
-# fabric
-
+.gradle/
 run/
+/common/build/
+/common/build/*
+/fabric/build/
+/fabric/build/*
+/neoforge/build/
+/neoforge/build/*
+/common/src/main/python/block/

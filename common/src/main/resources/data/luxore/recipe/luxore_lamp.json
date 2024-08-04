@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    " X ",
+    "X.X",
+    " X "
+  ],
+  "key": {
+    ".": {
+      "item": "luxore:luxore_sand"
+    },
+    "X": {
+      "item": "luxore:luxore_glass"
+    }
+  },
+  "result": {
+    "id": "luxore:luxore_lamp",
+    "count": 1
+  }
+}

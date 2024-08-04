@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "luxore:luxore_ore"
-  },
-  "result": "luxore:luxore_ingot",
-  "experience": 12.0
-}
